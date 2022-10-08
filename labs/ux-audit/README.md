@@ -20,24 +20,3 @@ of a particular interaction by borrowing from the [UX Honeycomb](https://danewes
    sense. You don't have to write too much. Just think through each facet and be ready to discuss each one.
 
 
-## Example
-
-For example, [Superbetize](http://superbetize.com/) is an application for categorizing your 
-grocery list. The idea is make your trip to the store more efficient. Here's what an evaluation
-might look like--
-
-### Evaluation
-
-| Dimension      | Rating | Notes                                                    |
-| :------------- | :----: | :------------------------------------------------------- |
-| __Findable__   | 5      | Right there on the home page.                            |
-| __Useful__     | 4      | Wasn't able to categorize everything.                    |
-| __Usable__     | 5      | Easy to enter items, but no way to upload a spreadsheet. |
-| __Desirable__  | 5      | No complaints                                            |
-| __Accessible__ | 4      | Low contrast; hard to read in bright light.              | 
-| __Credible__   | 5      | No complaints.                                           |
-
-### Comments
-
-Good app. The button text could be more clear-- 'Superbetize' isn't a word in English, and the 
-app itself isn't famous enough to have entered the lexicon. Something like 'Categorize' might be better.
